@@ -5,7 +5,6 @@
 
     <!-- 中间的 路由 router-view 区域 -->
     <transition>
-      <h1>使用vue创建</h1>
       <router-view></router-view>
     </transition>
 
